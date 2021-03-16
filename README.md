@@ -17,3 +17,14 @@ A*cat*meow
 | Content in the first column | Content in the second column |
 | Content in the first column | Content in the second column |
 | Content in the first column | Content in the second column |
+
+A*cat*meow
+
+| First Header                | Second Header                |
+| --------------------------- | ---------------------------- |
+| TESTE FACILIDADE        | Content from cell 2          |
+| Content in the first column | Content in the second column |
+| Content in the first column | Content in the second column |
+| Content in the first column | Content in the second column |
+| Content in the first column | Content in the second column |
+| Content in the first column | Content in the second column |
