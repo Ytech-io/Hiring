@@ -1,1 +1,1 @@
-# ISTO SÃO FAQS
+# FAQS
