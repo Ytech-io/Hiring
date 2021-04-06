@@ -2,7 +2,7 @@
 
 ![alt text](/Ytech/CapaGitHub.png)
 
-**Hi human tech machine,** :loudspeaker:
+**Hi human tech machine!** :loudspeaker:
 
 **Ytech, the coolest IT startup ever, is hiring (you?)!**
 
