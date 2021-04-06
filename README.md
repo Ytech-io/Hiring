@@ -8,6 +8,6 @@
 
 # OPEN POSITIONS
 
-- [Outsystems Consultant] (../Description/Outsystems.md)
+- [Outsystems Consultant] (Description/Outsystems.md)
 - Frontend Developer (React)
 - Junior .NET (Core) Developer
